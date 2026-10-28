@@ -1,5 +1,7 @@
 # ds-bot-brand
 
+[English](README.md) | [简体中文](README.zh.md)
+
 `ds-bot-brand` customizes the DS Bot sidebar without replacing the app bundle.
 Its package and DSH plugin ID remain `ds-brand` for compatibility with existing
 installations.
